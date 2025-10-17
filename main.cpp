@@ -12,4 +12,6 @@ int main() {
 
 	printf("%d", playerHP);
 
+	printf("%d%d", playerHP, playerHP);
+
 }
