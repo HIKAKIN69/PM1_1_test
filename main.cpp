@@ -10,4 +10,6 @@ int main() {
 
 	printf("%d", player);
 
+	printf("%d%d", playerHP, playerHP);
+
 }
