@@ -7,7 +7,7 @@ int main() {
 	printf("a");
 	printf("player‚ÌUŒ‚");
 
-	printf("%d", playerHP);
+	
 
 	printf("%d%d", playerHP, playerHP);
 
