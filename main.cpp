@@ -2,14 +2,12 @@
 
 int main() {
 
-	int speed = 10;
-
-	int playerHP = 5;
+	int player = 5;
 
 	printf("a");
 
 	printf("player‚ÌUŒ‚");
 
-	printf("%d", playerHP);
+	printf("%d", player);
 
 }
